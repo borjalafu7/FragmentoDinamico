@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentoDinamico</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bienvenido">Bienvenidos!</string>
+    <string name="fragmentorojo">Fragmento Rojo</string>
+    <string name="fragmentoazul">Fragmento Azul</string>
+    <string name="boton_de_azul">Boton de Azul</string>
+</resources>
